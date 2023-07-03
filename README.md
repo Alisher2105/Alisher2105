@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Alisher2105
-- 👀 I’m interested in physics and algorithmic trading
-- 🌱 I’m currently learning FX Robot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in physics and programming
 
 <!---
 Alisher2105/Alisher2105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
